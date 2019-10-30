@@ -1,0 +1,20 @@
+{
+  "name": "@shaunxu/github-pkg-lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaunxu/github-pkg-lib.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaunxu/github-pkg-lib/issues"
+  },
+  "homepage": "https://github.com/shaunxu/github-pkg-lib#readme"
+}
